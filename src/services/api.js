@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://127.0.0.1:8000/api/items/';
+const API_URL = 'https://backendprueba-2n76.onrender.com';
 
 export const getItems = () => axios.get(API_URL);
 
