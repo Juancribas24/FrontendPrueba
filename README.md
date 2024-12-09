@@ -21,6 +21,7 @@
 ## Instalación
 ##### Clona el repositorio
 `git clone https://github.com/Juancribas24/FrontendPrueba.git`
+`git clone https://github.com/Juancribas24/BackendPrueba.git`
 
 `cd PruebaFullstack`
 
