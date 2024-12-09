@@ -68,7 +68,7 @@ Backend Dockerfile: Define el entorno del backend.
 
 ## Enlaces de despliegue
 - Frontend: [https://frontendprueba-mutj.onrender.com](https://frontendprueba-mutj.onrender.com)
-- Backend: [https://backendprueba-2n76.onrender.com](https://backendprueba-2n76.onrender.com)
+- Backend: [https://backendprueba-2n76.onrender.com](https://backendprueba-2n76.onrender.com)/api/items
 
 
 Contacto Creador: [Juancribas]
