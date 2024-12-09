@@ -21,7 +21,6 @@
 ## Instalación
 ##### Clona el repositorio
 `git clone https://github.com/Juancribas24/FrontendPrueba.git`
-`git clone https://github.com/Juancribas24/BackendPrueba.git`
 
 `cd PruebaFullstack`
 
@@ -59,3 +58,20 @@ Frontend
 Backend
 
 [![Django-Rest-Prueba.png](https://i.postimg.cc/J49NXgHN/Django-Rest-Prueba.png)](https://postimg.cc/TpJ5Mt91)  
+
+## Despliegue con Docker y Render
+Este proyecto utiliza Docker para contenerizar tanto el frontend como el backend. Ambos servicios fueron desplegados en Render, una plataforma que simplifica la administración y ejecución de contenedores en la nube.
+
+## Archivos clave:
+Frontend Dockerfile: Define el entorno del frontend.
+Backend Dockerfile: Define el entorno del backend.
+
+## Enlaces de despliegue
+- Frontend: [https://frontendprueba-mutj.onrender.com](https://frontendprueba-mutj.onrender.com)
+- Backend: [https://backendprueba-2n76.onrender.com](https://backendprueba-2n76.onrender.com)
+
+
+Contacto Creador: [Juancribas]
+
+📧 Correo: [juancamilo927@gmail.com]
+¡Gracias por explorar este proyecto! 🚀
