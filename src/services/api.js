@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://backendprueba-2n76.onrender.com';
+const API_URL = 'https://backendprueba-2n76.onrender.com/api/items/';
 
 export const getItems = () => axios.get(API_URL);
 
